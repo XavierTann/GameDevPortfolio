@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/GameDevPortfolio/static/css/main.5a7badcf.css",
-    "main.js": "/GameDevPortfolio/static/js/main.bb5591ca.js",
+    "main.js": "/GameDevPortfolio/static/js/main.d283bf1a.js",
     "static/media/Oxanium.ttf": "/GameDevPortfolio/static/media/Oxanium.50bb18b058c797a89438.ttf",
     "static/media/PhoenixGaming.ttf": "/GameDevPortfolio/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
     "static/media/ZenDots.ttf": "/GameDevPortfolio/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
     "static/media/PixelGame.otf": "/GameDevPortfolio/static/media/PixelGame.a7040ee1df82fd46813b.otf",
     "index.html": "/GameDevPortfolio/index.html",
     "main.5a7badcf.css.map": "/GameDevPortfolio/static/css/main.5a7badcf.css.map",
-    "main.bb5591ca.js.map": "/GameDevPortfolio/static/js/main.bb5591ca.js.map"
+    "main.d283bf1a.js.map": "/GameDevPortfolio/static/js/main.d283bf1a.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7badcf.css",
-    "static/js/main.bb5591ca.js"
+    "static/js/main.d283bf1a.js"
   ]
 }
