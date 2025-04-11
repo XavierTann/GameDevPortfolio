@@ -24,43 +24,6 @@ export const PersonalInfo: AboutMeData = {
 
 export const games: Game[] = [
   {
-    name: "Light and Seek",
-    description:
-      "A 2D puzzle game where players transform into their shadow to solve intricate, light-based puzzles. Developed for a game jam with a focus on level design, shadow mechanics, and a dark fantasy aesthetic.",
-    genres: ["Puzzle", "2D Platformer"],
-    platforms: [Platform.Windows],
-    engine: GameEngine.Unity,
-    links: [
-      { source: LinkImageSource.Github, url: "https://github.com/YOUR_REPO" },
-      {
-        source: LinkImageSource.ItchIo,
-        url: "https://YOUR_ITCH.itch.io/GAME_NAME",
-      },
-    ],
-    media: [
-      {
-        source: "/images/games/GAME_NAME/Screenshot_1.png",
-        type: MediaType.Image,
-      },
-      {
-        source: "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        type: MediaType.YouTube,
-      },
-      {
-        source: "/images/games/GAME_NAME/Screenshot_2.png",
-        type: MediaType.Image,
-      },
-      {
-        source: "/images/games/GAME_NAME/Screenshot_3.png",
-        type: MediaType.Image,
-      },
-      {
-        source: "/images/games/GAME_NAME/Screenshot_4.png",
-        type: MediaType.Image,
-      },
-    ],
-  },
-  {
     name: "Reboot",
     description:
       "A 2D side-scrolling puzzle platformer where players summon illusions by rewinding time, allowing them to interact with echoes of their past actions. Features a sleek sci-fi aesthetic and collaborative development using Git.",
@@ -68,7 +31,10 @@ export const games: Game[] = [
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
     links: [
-      { source: LinkImageSource.Github, url: "https://github.com/YOUR_REPO" },
+      {
+        source: LinkImageSource.Github,
+        url: "https://github.com/XavierTann/reboot",
+      },
       {
         source: LinkImageSource.ItchIo,
         url: "https://YOUR_ITCH.itch.io/GAME_NAME",
@@ -76,37 +42,44 @@ export const games: Game[] = [
     ],
     media: [
       {
-        source: "/images/games/GAME_NAME/Screenshot_1.png",
+        source: "/images/games/reboot/Screenshot_1.png",
         type: MediaType.Image,
       },
       {
-        source: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        source: "https://www.youtube.com/embed/s3BjaO5Ylkc",
         type: MediaType.YouTube,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_2.png",
+        source: "/images/games/reboot/Screenshot_2.png",
         type: MediaType.Image,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_3.png",
+        source: "/images/games/reboot/Screenshot_3.png",
         type: MediaType.Image,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_4.png",
+        source: "/images/games/reboot/Screenshot_4.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "/images/games/reboot/Screenshot_5.png",
         type: MediaType.Image,
       },
     ],
   },
 
   {
-    name: "Undercooked",
+    name: "KitchenChaos",
     description:
-      "A cooperative cooking simulation game where players must collaborate in fast-paced, chaotic kitchens to prepare and serve meals. Includes UI animation, prefab systems, and gameplay systems using ScriptableObjects and Singleton patterns.",
+      "A cooperative cooking simulation game where players must collaborate in fast-paced, chaotic kitchens to prepare and serve meals.",
     genres: ["Simulation", "Co-op", "Casual"],
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
     links: [
-      { source: LinkImageSource.Github, url: "https://github.com/YOUR_REPO" },
+      {
+        source: LinkImageSource.Github,
+        url: "https://github.com/XavierTann/KitchenChaos",
+      },
       {
         source: LinkImageSource.ItchIo,
         url: "https://YOUR_ITCH.itch.io/GAME_NAME",
@@ -114,7 +87,56 @@ export const games: Game[] = [
     ],
     media: [
       {
-        source: "/images/games/GAME_NAME/Screenshot_1.png",
+        source: "/images/games/Kitchen_Chaos/Screenshot_1.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "https://www.youtube.com/embed/fYMbBh9W9_s",
+        type: MediaType.YouTube,
+      },
+      {
+        source: "/images/games/Kitchen_Chaos/Screenshot_2.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "/images/games/Kitchen_Chaos/Screenshot_3.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "/images/games/Kitchen_Chaos/Screenshot_4.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "/images/games/Kitchen_Chaos/Screenshot_5.png",
+        type: MediaType.Image,
+      },
+      {
+        source: "/images/games/Kitchen_Chaos/Screenshot_6.png",
+        type: MediaType.Image,
+      },
+    ],
+  },
+
+  {
+    name: "Light and Seek",
+    description:
+      "A 2D puzzle game where players transform into their shadow to solve intricate, light-based puzzles. Developed for a game jam with a focus on level design, shadow mechanics, and a dark fantasy aesthetic.",
+    genres: ["Puzzle", "2D Platformer"],
+    platforms: [Platform.Windows],
+    engine: GameEngine.Unity,
+    links: [
+      {
+        source: LinkImageSource.Github,
+        url: "https://github.com/XavierTann/LightAndSeek",
+      },
+      // {
+      //   source: LinkImageSource.ItchIo,
+      //   url: "https://YOUR_ITCH.itch.io/GAME_NAME",
+      // },
+    ],
+    media: [
+      {
+        source: "/images/games/Light_And_Seek/Screenshot_1.png",
         type: MediaType.Image,
       },
       {
@@ -122,15 +144,15 @@ export const games: Game[] = [
         type: MediaType.YouTube,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_2.png",
+        source: "/images/games/Light_And_Seek/Screenshot_2.png",
         type: MediaType.Image,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_3.png",
+        source: "/images/games/Light_And_Seek/Screenshot_3.png",
         type: MediaType.Image,
       },
       {
-        source: "/images/games/GAME_NAME/Screenshot_4.png",
+        source: "/images/games/Light_And_Seek/Screenshot_4.png",
         type: MediaType.Image,
       },
     ],
