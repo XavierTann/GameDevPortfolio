@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GameDevPortfolio/static/css/main.5a7badcf.css",
-    "main.js": "/GameDevPortfolio/static/js/main.d283bf1a.js",
-    "static/media/Oxanium.ttf": "/GameDevPortfolio/static/media/Oxanium.50bb18b058c797a89438.ttf",
-    "static/media/PhoenixGaming.ttf": "/GameDevPortfolio/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
-    "static/media/ZenDots.ttf": "/GameDevPortfolio/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
-    "static/media/PixelGame.otf": "/GameDevPortfolio/static/media/PixelGame.a7040ee1df82fd46813b.otf",
-    "index.html": "/GameDevPortfolio/index.html",
-    "main.5a7badcf.css.map": "/GameDevPortfolio/static/css/main.5a7badcf.css.map",
-    "main.d283bf1a.js.map": "/GameDevPortfolio/static/js/main.d283bf1a.js.map"
+    "main.css": "/GameDevPortfolioo/static/css/main.f66f6337.css",
+    "main.js": "/GameDevPortfolioo/static/js/main.96f4a60b.js",
+    "static/media/Oxanium.ttf": "/GameDevPortfolioo/static/media/Oxanium.50bb18b058c797a89438.ttf",
+    "static/media/PhoenixGaming.ttf": "/GameDevPortfolioo/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
+    "static/media/ZenDots.ttf": "/GameDevPortfolioo/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
+    "static/media/PixelGame.otf": "/GameDevPortfolioo/static/media/PixelGame.a7040ee1df82fd46813b.otf",
+    "index.html": "/GameDevPortfolioo/index.html",
+    "main.f66f6337.css.map": "/GameDevPortfolioo/static/css/main.f66f6337.css.map",
+    "main.96f4a60b.js.map": "/GameDevPortfolioo/static/js/main.96f4a60b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7badcf.css",
-    "static/js/main.d283bf1a.js"
+    "static/css/main.f66f6337.css",
+    "static/js/main.96f4a60b.js"
   ]
 }
